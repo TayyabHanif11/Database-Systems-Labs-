@@ -34,7 +34,7 @@ Design and implement a complete relational database for a car rental company (Ca
 
 ## Files in this Folder
 - `car_rental.sql` – full schema, sample data, JOIN queries, view, triggers, and stored procedure (numbered sections match the report)
-- `Lab13_Report.docx` – full report: introduction, design justification, normalization analysis, all queries/screenshots, and optimization analysis
+- `DBMS_OEL_2024_SE_11.pdf` – full report: introduction, design justification, normalization analysis, all queries/screenshots, and optimization analysis
 - `README.md` – this file
 
 ## How to Run
