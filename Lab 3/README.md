@@ -251,11 +251,3 @@ The implementation covers the tasks specified in the Lab 03 manual:
 8. Explore candidate keys, alternate keys, and composite keys.
 
 ---
-
-## Lab Status
-
-**Completed — Lab 03: KEYS_AND_QUERIES**
-
----
-
-> **Note:** Screenshots and execution evidence are intentionally not included at this stage. They will be considered separately at the end for labs where the submission requirements require implementation screenshots.
