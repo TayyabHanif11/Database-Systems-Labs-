@@ -1,7 +1,5 @@
 # 🗄️ Database Systems - Lab 7: Advanced SQL Filtering & Data Presentation
 
-This repository contains the complete solution for **Lab 7** of the **Database Systems** course at **The University of Azad Jammu & Kashmir (AJKU)**.
-
 ---
 
 ## 🎯 Lab Objectives
@@ -44,16 +42,9 @@ In SQL, `NULL` represents an unknown or unassigned value. Standard comparison op
 ## 🛠️ Execution Instructions
 
 1. Launch **MySQL Workbench** or **MySQL Command Line Client**.
-2. Run the script `2024-SE-11_Filters_Part2.sql`.
+2. Run the script.
 3. The script automatically creates and populates two separate database environments:
    - `lab7_company` — Used for Lab 7 Practice Tasks (B1 to B15).
    - `lab7_bookstore` — Used for Assessment Questions (Q1 to Q10).
 
 ---
-
-## 👤 Student Information
-
-- **Name:** Tayyab Hanif
-- **Roll Number:** 2024-SE-11
-- **Program:** BS Software Engineering
-- **University:** The University of Azad Jammu & Kashmir (AJKU)
