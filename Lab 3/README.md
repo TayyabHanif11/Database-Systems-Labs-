@@ -2,8 +2,7 @@
 
 **Course:** Database Systems / DBMS Lab  
 **Lab:** 03  
-**Topic:** **KEYS_AND_QUERIES**  
-**DBMS:** MySQL  
+**Topic:** **KEYS_AND_QUERIES**    
 **Implementation:** MySQL / phpMyAdmin
 
 ---
