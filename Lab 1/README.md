@@ -14,22 +14,22 @@ To download, install, and configure **XAMPP** to run a local Apache web server a
 ## 🚀 Steps Performed
 
 1. **Download:**
-   - Downloaded the latest Windows package of XAMPP from the official [Apache Friends](https://www.apachefriends.org/) website[cite: 1].
+   - Downloaded the latest Windows package of XAMPP from the official [Apache Friends](https://www.apachefriends.org/) website.
 2. **Installation & Component Selection:**
-   - Configured and installed core components, specifically selecting **Apache** and **MySQL**[cite: 1].
+   - Configured and installed core components, specifically selecting **Apache** and **MySQL**.
 3. **Service Launch:**
-   - Opened the **XAMPP Control Panel** and initialized Apache and MySQL services[cite: 1].
-   - Verified that modules activated successfully (Apache on ports `80/443`, MySQL on port `3306`)[cite: 1].
+   - Opened the **XAMPP Control Panel** and initialized Apache and MySQL services.
+   - Verified that modules activated successfully (Apache on ports `80/443`, MySQL on port `3306`).
 4. **Environment Verification:**
-   - Navigated to `http://localhost/phpmyadmin` in the browser[cite: 1].
-   - Successfully verified access to the **phpMyAdmin** dashboard interface[cite: 1].
+   - Navigated to `http://localhost/phpmyadmin` in the browser.
+   - Successfully verified access to the **phpMyAdmin** dashboard interface.
 
 ---
 
 ## 🛠️ Environment & Tools
 - **OS:** Windows
-- **Software:** XAMPP v3.3.0 (Apache, MySQL, phpMyAdmin)[cite: 1]
-- **Course:** Database Systems (CS-2204)[cite: 1]
+- **Software:** XAMPP v3.3.0 (Apache, MySQL, phpMyAdmin)
+- **Course:** Database Systems (CS-2204)
 
 ---
 
