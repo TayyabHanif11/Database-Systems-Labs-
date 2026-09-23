@@ -28,10 +28,10 @@
 
 ## 🚀 Execution Instructions
 
-1. Open **MySQL Workbench** or the **MySQL Command Line Client**[cite: 3].
+1. Open **MySQL Workbench** or the **MySQL Command Line Client**.
 2. Run the provided SQL script.
 3. The script initializes two distinct databases:
-   - `filters_lab` (Employee Database for Parts A & B)[cite: 3]
-   - `bookstore_lab` (Online Bookstore Database for Assessment)[cite: 3]
+   - `filters_lab` (Employee Database for Parts A & B)
+   - `bookstore_lab` (Online Bookstore Database for Assessment)
 
 ---
