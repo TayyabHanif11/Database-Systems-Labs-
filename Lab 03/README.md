@@ -194,7 +194,7 @@ They are intentionally not executed automatically because both operations can re
 ```text
 Lab-03/
 │
-├── Lab_03_SQL_Solutions.sql
+├── Lab_03_KEYS_AND_QUERIES.sql
 └── README.md
 ```
 
