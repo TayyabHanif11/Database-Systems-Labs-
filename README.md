@@ -25,7 +25,7 @@ Each lab lives in its own folder and follows the same pattern:
 | [Lab 02](./Lab%2002) | Point of Sale (POS) Database | `Lab2_POS_SCHEMA.sql` | 10-table schema (RBAC roles/permissions, inventory, orders) + 10 analytical reporting queries |
 | [Lab 03](./Lab%2003) | Keys and Queries | `Lab_03_KEYS_AND_QUERIES.sql` | Primary, foreign, composite, candidate, alternate & surrogate keys; SELECT, UPDATE, DELETE, ALTER, JOIN, TRUNCATE/DROP |
 | [Lab 04](./Lab%2004) | Normalization — 1NF | `Lab4_Normalization_1NF.sql` | Converting an unnormalized bookstore order table into First Normal Form |
-| [Lab 05](./Lab%2005) | Normalization — 2NF & 3NF | `Lab5_2NF_3NF.sql` | Completing the bookstore decomposition to 3NF + a full Hospital Management System normalized from scratch |
+| [Lab 05](./Lab%2005) | Normalization — 2NF & 3NF | `Lab5_2NF_3NF.sql` | Completing the bookstore decomposition to 2NF/3NF + a full Hospital Management System normalized from scratch |
 | [Lab 06](./Lab%2006) | SQL Filters — Comparison & Logical Operators | `Lab6_FiltersPart1_...sql` | `WHERE`, `AND`/`OR`/`NOT`, `BETWEEN`, `IN`, `LIKE`, `IS NULL`, `ORDER BY`, `LIMIT` |
 | [Lab 07](./Lab%2007) | SQL Filters — Advanced Filtering & Presentation | `LAB7_FILTERS_PART2.sql` | Continued filtering practice + a full graded assessment (`lab7_bookstore`) |
 | [Lab 08](./Lab%2008) | SQL Joins — Part 1 | `Lab8_JoinsPart1.sql` | `INNER`, `LEFT`, `RIGHT`, emulated `FULL OUTER` joins, anti-join pattern, avoiding Cartesian products |
