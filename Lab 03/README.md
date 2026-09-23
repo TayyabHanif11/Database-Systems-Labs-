@@ -198,7 +198,7 @@ Lab-03/
 └── README.md
 ```
 
-### `Lab_03_SQL_Solutions.sql`
+### `Lab_03_KEYS_AND_QUERIES.sql`
 
 Contains the complete MySQL implementation for **KEYS_AND_QUERIES**, including:
 
@@ -228,7 +228,7 @@ Provides the lab description, database structure, relationships, concepts, imple
 1. Start **MySQL** through XAMPP or use another MySQL installation.
 2. Open **phpMyAdmin**.
 3. Go to the **SQL** tab.
-4. Open or paste `Lab_03_SQL_Solutions.sql`.
+4. Open or paste `Lab_03_KEYS_AND_QUERIES.sql`.
 5. Execute the complete script.
 6. Select `keys_and_queries_db` to inspect the created tables.
 7. Run the individual query sections again when checking their results.
