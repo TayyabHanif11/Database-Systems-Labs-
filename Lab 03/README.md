@@ -189,14 +189,6 @@ They are intentionally not executed automatically because both operations can re
 
 ---
 
-## Files in This Folder
-
-```text
-Lab-03/
-│
-├── Lab_03_KEYS_AND_QUERIES.sql
-└── README.md
-```
 
 ### `Lab_03_KEYS_AND_QUERIES.sql`
 
