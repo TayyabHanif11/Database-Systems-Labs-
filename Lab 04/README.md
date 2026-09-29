@@ -54,6 +54,7 @@ This uniquely identifies each book within an order.
 
 - `Lab4_Normalization_1NF.sql` – SQL implementation
 - `README.md` – Lab description
+- `Report_Lab4_DBS.pdf` – Lab implementation report backed by screenshots
 
 ## How to Run
 
