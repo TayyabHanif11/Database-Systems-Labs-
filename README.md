@@ -57,9 +57,4 @@ Several labs (05, 06, 07, 09, 11, 12) create **two separate databases** in a sin
 
 ---
 
-## 📂 Labs Requiring a Written Report
-
-- **Lab 01** — installation walkthrough with screenshots (`Lab1_XAMPP_INS.pdf`)
-- **Open Ended Lab** — full report covering design justification, normalization analysis, all query outputs, and optimization analysis (`DBMS_OEL_2024_SE_11.pdf`)
-
-All other labs are fully documented through their SQL comments and per-lab README.
+All labs are fully documented through their PDF reports, SQL comments and per-lab README.
